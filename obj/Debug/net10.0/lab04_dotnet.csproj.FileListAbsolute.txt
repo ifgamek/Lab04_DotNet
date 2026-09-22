@@ -1,0 +1,15 @@
+C:\Users\Владислав\documents\ISPR\lab04_dotnet\obj\Debug\net10.0\lab04_dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владислав\documents\ISPR\lab04_dotnet\obj\Debug\net10.0\lab04_dotnet.AssemblyInfoInputs.cache
+C:\Users\Владислав\documents\ISPR\lab04_dotnet\obj\Debug\net10.0\lab04_dotnet.AssemblyInfo.cs
+C:\Users\Владислав\documents\ISPR\lab04_dotnet\obj\Debug\net10.0\lab04_dotnet.csproj.CoreCompileInputs.cache
+C:\Users\Владислав\documents\ISPR\lab04_dotnet\obj\Debug\net10.0\lab04_dotnet.sourcelink.json
+C:\Users\Владислав\documents\ISPR\lab04_dotnet\bin\Debug\net10.0\lab04_dotnet.exe
+C:\Users\Владислав\documents\ISPR\lab04_dotnet\bin\Debug\net10.0\lab04_dotnet.deps.json
+C:\Users\Владислав\documents\ISPR\lab04_dotnet\bin\Debug\net10.0\lab04_dotnet.runtimeconfig.json
+C:\Users\Владислав\documents\ISPR\lab04_dotnet\bin\Debug\net10.0\lab04_dotnet.dll
+C:\Users\Владислав\documents\ISPR\lab04_dotnet\bin\Debug\net10.0\lab04_dotnet.pdb
+C:\Users\Владислав\documents\ISPR\lab04_dotnet\obj\Debug\net10.0\lab04_dotnet.dll
+C:\Users\Владислав\documents\ISPR\lab04_dotnet\obj\Debug\net10.0\refint\lab04_dotnet.dll
+C:\Users\Владислав\documents\ISPR\lab04_dotnet\obj\Debug\net10.0\lab04_dotnet.pdb
+C:\Users\Владислав\documents\ISPR\lab04_dotnet\obj\Debug\net10.0\lab04_dotnet.genruntimeconfig.cache
+C:\Users\Владислав\documents\ISPR\lab04_dotnet\obj\Debug\net10.0\ref\lab04_dotnet.dll
